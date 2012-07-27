@@ -1,0 +1,7 @@
+Curve
+=====
+
+Curve is a class that simplifies the calculation of trends and areas
+under a curve defined by an array of point coordinates.
+
+See lib/main.rb and test for examples of usage.
